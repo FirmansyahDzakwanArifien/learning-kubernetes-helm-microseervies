@@ -2,7 +2,6 @@
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-1.20%2B-blue.svg)](https://kubernetes.io/)
 [![Helm](https://img.shields.io/badge/Helm-3.x-blue.svg)](https://helm.sh/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey.svg)]()
 
 A comprehensive hands-on tutorial for deploying microservices applications, demonstrating the evolution from conventional Kubernetes YAML manifests to modern Helm Charts implementation using Google's Hipster Shop microservices demo.
